@@ -1,4 +1,4 @@
-# ReactionTimer (TouchGFX / STM32H750)
+# Cookie Clicker (TouchGFX / STM32H750)
 
 A Cookie clicker game built with **TouchGFX** for the **STM32H750 Discovery Kit**.  
 User must tap a cookie to progress through levels.
